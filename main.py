@@ -386,3 +386,5 @@ while lets_continue:
 
 # ukonceni pygame
 pygame.quit()
+
+#Made by VeselyMatej
