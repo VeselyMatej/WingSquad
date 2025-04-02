@@ -8,4 +8,4 @@
 ### About WingSquad
 - WingSquad is free to play 2D game, written in Python with Pygame.
 - It's my first "big" game, so it's simple but fun to play ツ
-- ## enjoy your game! 😉
+- ### enjoy your game! 😉
