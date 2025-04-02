@@ -1,6 +1,10 @@
 <p align="centre">
+ 
   [Source code for WingSquad](https://github.com/VeselyMatej/WingSquad/blob/main/main.py)
+
+  
 </p>
+
 #### ⬆️ Here is code for the **latest version** of WingSquad game ⬆️
 #### 💾 The downloadable .exe file you can find in Releases **here**: [WingSquad download](https://github.com/VeselyMatej/WingSquad/releases)
 
